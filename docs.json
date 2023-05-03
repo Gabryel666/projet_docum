@@ -1,14 +1,13 @@
 {
   "name": "Projet Documentation test",
   "description": "Ceci est un test de documentation hebergé sur Github",
-}
-
-{
-  "sidebar": [
+  "sidebar": {
+    [
     ["Acceuil", "/"],
     ["Advanced", [
       ["Reference API", "/"],
       ["FAQs", "/"]
     ]]
-  ]
+    ]
+  }
 }
