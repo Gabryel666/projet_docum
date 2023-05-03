@@ -1,16 +1,14 @@
 {
   "name": "Projet Documentation test",
   "description": "Ceci est un test de documentation hebergé sur Github",
-  "logo": "/assets/logo.png",
-  "logoDark": "/assets/logo-dark.png"
 }
 
 {
   "sidebar": [
-    ["Getting Started", "/"],
+    ["Acceuil", "/"],
     ["Advanced", [
-      ["Reference API", "/reference"],
-      ["FAQs", "/faqs"]
+      ["Reference API", "/"],
+      ["FAQs", "/"]
     ]]
   ]
 }
