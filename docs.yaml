@@ -8,6 +8,7 @@ anchors:
   link: "https://example.com"
   icon: "house"
 sidebar:
+- General
 - - Getting Started
   - "/"
 - - Advanced
@@ -15,4 +16,4 @@ sidebar:
       - "/reference"
     - - FAQs
       - "/faqs"
-headerDepth: 1
+headerDepth: 3
