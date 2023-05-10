@@ -8,9 +8,9 @@ anchors:
   link: "https://example.com"
   icon: "house"
 sidebar:
-- General
-- - Getting Started
-  - "/"
+- - Sommaire
+  - - - Le personnage
+      - "/Le Personnage.mdx"
 - - Advanced
   - - - Reference API
       - "/reference"
