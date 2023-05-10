@@ -10,7 +10,7 @@ anchors:
 sidebar:
 - - Sommaire
   - - - Le personnage
-      - "/docs/Le Personnage.mdx"
+      - "/Le Personnage"
 - - Advanced
   - - - Reference API
       - "/reference"
