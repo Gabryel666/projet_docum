@@ -1,0 +1,9 @@
+name: Projet documentation test
+description: Ceci est un test de documentation hebergé sur Github
+#logo: "/assets/logo.png"
+#logoDark: "/assets/logo-dark.png"
+automaticallyDisplayName: False
+anchors:
+- title: "Homepage"
+  link: "https://example.com"
+  icon: "house"
