@@ -10,7 +10,7 @@ anchors:
 sidebar:
 - - Sommaire
   - - - Le personnage
-      - "/Le Personnage"
+      - "/01 Le Personnage"
 - - Advanced
   - - - Reference API
       - "/reference"
