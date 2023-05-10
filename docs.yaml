@@ -7,3 +7,11 @@ anchors:
 - title: "Homepage"
   link: "https://example.com"
   icon: "house"
+sidebar:
+- - Getting Started
+  - "/"
+- - Advanced
+  - - - Reference API
+      - "/reference"
+    - - FAQs
+      - "/faqs"
