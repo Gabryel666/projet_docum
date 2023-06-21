@@ -1,0 +1,6 @@
+site_name: Ambre Dharma
+nav:
+  - Accueil: index.md
+  - Le personnage: 01 Le Personnage.md
+  - Création de personnage: 02 Création de personnage.md
+
